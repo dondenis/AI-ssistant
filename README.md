@@ -32,8 +32,7 @@ pip install flask werkzeug openpyxl python-docx
 ### 2. Project structure
 
 Ai-ssistant/
-├─ kitool.py  
-├─ gpt4free/            # LLM client (or replace with your own)  
+├─ kitool.py   
 ├─ inputs/              # input interview files (.docx)  
 └─ outputs/             # generated Excel files  
 
