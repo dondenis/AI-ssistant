@@ -20,7 +20,7 @@ client = Client()  # default client
 app = Flask(__name__)
 
 # --- Configuration ---
-UPLOAD_FOLDER = "uploads"
+UPLOAD_FOLDER = "inputs"
 OUTPUT_FOLDER = "outputs"
 ALLOWED_EXTENSIONS = {'docx'}
 
