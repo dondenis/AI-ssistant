@@ -34,7 +34,7 @@ pip install flask werkzeug openpyxl python-docx
 Ai-ssistant/
 ├─ kitool.py  
 ├─ gpt4free/            # LLM client (or replace with your own)  
-├─ uploads/             # input interview files (.docx)  
+├─ inputs/              # input interview files (.docx)  
 └─ outputs/             # generated Excel files  
 
 ---
